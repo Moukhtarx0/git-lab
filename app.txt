@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello from the main branch
 Main branch change
+=======
+Feature branch change
+>>>>>>> 75e77c5 (update to app)
